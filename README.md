@@ -24,7 +24,7 @@ A modern, clean, and customizable Pomodoro Timer application built with React an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rapoii/Pomodoro.git
+   git clone https://github.com/yourusername/pomodoro.git
    cd pomodoro
    ```
 
